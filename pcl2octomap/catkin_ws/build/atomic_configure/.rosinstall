@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/meldoy/pcl2octomap/catkin_ws/devel/setup.sh
